@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.banner{
+    background-image: url(Images/banner.png);
+    background-position: center;
+    background-size: cover;
+    height: 600px;
+    width: 80%;
+    margin: 50px 140px;
+    align-items: center;
+}
+.home{
+    text-align: center;
+    padding: 280px;
+     
+}
+
+.home h3{
+    font-family: sans-serif;
+    font-size: 32px;
+    font-weight: 400;
+    color: white;
+
+}
