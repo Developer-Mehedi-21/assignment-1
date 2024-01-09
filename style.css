@@ -310,7 +310,29 @@
     padding-bottom: 15px;
 }
 
+.holiday-section{
+    margin: 100px 140px;
+}
 
+.holiday-texts{
+    text-align: center;
+}
+
+.holiday-texts h1 span{
+    color:#f00;
+}
+
+.holiday-texts h1{
+    font-size: 60px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 900;
+    padding:10px 0px;
+}
+
+.holiday-texts p{
+    font-weight: lighter;
+    line-height: 22px;
+}
 
 
 
